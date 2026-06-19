@@ -1,0 +1,6 @@
+{
+  "name": "World Hunger Index: Visualized",
+  "description": "An interactive data-art visualization of the Global Hunger Index over four years.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
